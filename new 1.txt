@@ -1,0 +1,6 @@
+  # if you have a bearer token, you can use it below. otherwise, swap the comment marks and use 
+  # your app's consumer key/secret - the library will generate and use a bearer token for you. 
+  #consumer_key: <SznpkDTuh>
+  #consumer_secret: <lP8Xr0p42wMKnoTxseu04c>
+  
+    bearer_token: U3pucGtiTGxPREQ2OWRwd2pnT0peHNldTA0Yw==
